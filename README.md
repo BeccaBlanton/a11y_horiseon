@@ -25,5 +25,5 @@
 
 ### reorganized to follow flow of HTML file
 
-<img src="/Users/rebeccablanton/HWS/HW1/Develop/assets/images/_Users_rebeccablanton_HWS_HW1_Develop_index.html.png">
+<img src="./images/horiseonwebsitescreenshot.png">
 
