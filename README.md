@@ -25,4 +25,4 @@
 
 ### reorganized to follow flow of HTML file
 
-<img src="horiseonwebsitescreenshot.png">
+[Final Screenshot of website](images/horiseonwebsitescreenshot.png)
