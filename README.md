@@ -25,5 +25,4 @@
 
 ### reorganized to follow flow of HTML file
 
-<img src="./images/horiseonwebsitescreenshot.png">
-
+<img src="horiseonwebsitescreenshot.png">
