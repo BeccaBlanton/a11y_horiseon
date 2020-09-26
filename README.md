@@ -25,4 +25,4 @@
 
 ### reorganized to follow flow of HTML file
 
-[Final Screenshot of website](images/horiseonwebsitescreenshot.png)
+[Final Screenshot of website](Develop/assets/images/horiseonwebsitescreenshot.png)
