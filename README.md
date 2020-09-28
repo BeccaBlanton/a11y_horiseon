@@ -1,4 +1,4 @@
-# a11y_hw1: Horiseon Website
+# a11y_horiseon: Horiseon Website
 # To improve the SEO of the Horiseon website changes were made to make the HTMl elemts semantic as well as cleaning up CSS file.
 
 ## Changes to HTML file
