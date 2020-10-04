@@ -29,4 +29,4 @@
 
 # Final URL of webpage
 
-[Horiseon Website](https://beccablanton.github.io/a11y_hw1/)
+[Horiseon Website](https://beccablanton.github.io/a11y_horiseon/)
